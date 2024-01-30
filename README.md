@@ -1,5 +1,5 @@
 # NodeJS-Mysql-Selection-Test
-Certainly! A good README file provides essential information about your project, guiding users and developers on how to set up, use, and contribute to your application. Below is an example README for your Psychiatry API project:
+
 
 ```markdown
 # Psychiatry API
