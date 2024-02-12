@@ -1,4 +1,4 @@
-# NodeJS-Mysql-Selection-Test
+#Psychiatry API
 
 
 ```markdown
